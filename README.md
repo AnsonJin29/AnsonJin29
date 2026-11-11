@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Karting
 - 🌱 I’m currently learning ...Racing
 - 💞️ I’m looking to collaborate on ...Coding(Python)
-- 📫 How to reach me ...ansonjin429@gmial.com
+- 📫 How to reach me ...ansonjin@icloud.com
 
 <!---
 AnsonJin29/AnsonJin29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
